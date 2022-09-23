@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Templates-App/static/css/main.3b9f0b6c.css",
+    "main.js": "/Templates-App/static/js/main.ed120401.js",
+    "static/media/Roboto-Medium.ttf": "/Templates-App/static/media/Roboto-Medium.13a29228654d5c5ec9c4.ttf",
+    "static/media/Roboto-Thin.ttf": "/Templates-App/static/media/Roboto-Thin.c38fab23fc1c36894f10.ttf",
+    "static/media/Roboto-Bold.ttf": "/Templates-App/static/media/Roboto-Bold.4f39c5796e60c9d8e732.ttf",
+    "static/media/Roboto-Light.ttf": "/Templates-App/static/media/Roboto-Light.0cea39826bd36bbfe330.ttf",
+    "static/media/landingImage.png": "/Templates-App/static/media/landingImage.2b2aab66ae83aba9e4d9.png",
+    "static/media/template1.pdf": "/Templates-App/static/media/template1.17d587b8f6da04fe54a7.pdf",
+    "static/media/template2.pdf": "/Templates-App/static/media/template2.17d587b8f6da04fe54a7.pdf",
+    "static/media/template4.pdf": "/Templates-App/static/media/template4.5a23225c5c9a3909519a.pdf",
+    "static/media/template3.pdf": "/Templates-App/static/media/template3.2a0cc19e3769757c30f9.pdf",
+    "static/media/logo.png": "/Templates-App/static/media/logo.a4d3e32c8531f033c0d6.png",
+    "static/media/template5.pdf": "/Templates-App/static/media/template5.eb5a1b4e6c7779843146.pdf",
+    "static/media/logo-twitter.svg": "/Templates-App/static/media/logo-twitter.723f51ddb7ea7b044e8fe08d4ea1c29d.svg",
+    "static/media/right-arrow.svg": "/Templates-App/static/media/right-arrow.e62ca3f09c6f376fc7ce59f4fa052633.svg",
+    "static/media/left-arrow.svg": "/Templates-App/static/media/left-arrow.b0bcd7a990b155c1211f867f3a257976.svg",
+    "static/media/logo-linkedin.svg": "/Templates-App/static/media/logo-linkedin.8e44b19c630bca69a6539777116b38ea.svg",
+    "static/media/downloads-icon.svg": "/Templates-App/static/media/downloads-icon.de8aef26dc90f8db54836b4dc336469a.svg",
+    "static/media/logo-email.svg": "/Templates-App/static/media/logo-email.db588d4031ad11d44c8304f193f46751.svg",
+    "static/media/logo-facebook.svg": "/Templates-App/static/media/logo-facebook.54da773d512360b429d28ab35a02842b.svg",
+    "index.html": "/Templates-App/index.html",
+    "static/media/likes-icon.svg": "/Templates-App/static/media/likes-icon.2f138535f11caf5a620d076a5308e4cb.svg",
+    "static/media/logo-instagram.svg": "/Templates-App/static/media/logo-instagram.d17e1bd5792d13534bdbfe1bef53b8de.svg",
+    "main.3b9f0b6c.css.map": "/Templates-App/static/css/main.3b9f0b6c.css.map",
+    "main.ed120401.js.map": "/Templates-App/static/js/main.ed120401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b9f0b6c.css",
+    "static/js/main.ed120401.js"
+  ]
+}
