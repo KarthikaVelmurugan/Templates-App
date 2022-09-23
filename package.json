@@ -1,7 +1,7 @@
 {
   "name": "onebill-templates",
   "version": "0.1.0",
-  "homepage": "https://karthikavelmurugan.github.io/OneBill-Templates-Mockup",
+  "homepage": "https://karthikavelmurugan.github.io/Templates-App",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
