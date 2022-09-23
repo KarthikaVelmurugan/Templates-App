@@ -1,0 +1,17 @@
+.navBar{
+    color: rgb(150, 150, 150);
+    font-weight: bold;
+}
+.navItem{
+    padding-right: 6%;
+    text-decoration: none;
+    color: rgb(172, 167, 167);
+    font-weight: bold;
+    font-size: 100%;
+    transition: color 1.1s;
+}
+
+.navItem:hover{
+    color: rgb(92, 90, 90);
+
+}

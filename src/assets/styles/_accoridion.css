@@ -1,0 +1,18 @@
+.accordion {
+  border-radius: 10px !important;
+  background-color: #f6f6f6 !important;
+  color: #949090 !important;
+  padding: 0.5% !important;
+  font-weight: 900;
+  font-size: 17px;
+
+}
+.itemsList {
+  line-height: 30px !important;
+}
+
+.accordionList{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

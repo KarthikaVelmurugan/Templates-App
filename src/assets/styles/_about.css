@@ -1,0 +1,17 @@
+.about{
+    display: flex;
+    
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #f6f6f6;
+}
+.content{
+    color:#706d6d;
+    font-weight:bold;
+    font-size: 30px;
+    
+
+}
